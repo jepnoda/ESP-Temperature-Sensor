@@ -19,7 +19,7 @@
     </table>
 </div>
 
-A device built with an AHT20 Temperature/Humidity Module, an ESP32-S2 Microcontroller, SSD1306 OLED Display Module, and ESPHome Custom Firmware that can be integrated into Home Assistant to monitor the temperature and relative humidity of the surroundings.
+A temperature and relative humidity monitoring device created with the AHT20 Temperature/Humidity Module, the ESP32 Development Board, the SSD1306 OLED Display Module, and the ESPHome Custom Firmware that can be integrated into the Home Assistant.
 
 ## Features
 
